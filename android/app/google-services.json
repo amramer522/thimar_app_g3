@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425839345054",
+    "project_id": "thimar-g3",
+    "storage_bucket": "thimar-g3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425839345054:android:8771ddb9cf61097b316a8f",
+        "android_client_info": {
+          "package_name": "com.amoor.thimar_app_g3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gFn1nv2XpE2XR7xjIWENAvVIZGNSCks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
