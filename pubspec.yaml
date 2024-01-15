@@ -18,6 +18,8 @@ dependencies:
   firebase_messaging: ^14.7.7
   firebase_analytics:
   permission_handler: ^11.1.0
+  image_picker: ^1.0.7
+  quick_log:
 
 dev_dependencies:
   flutter_test:

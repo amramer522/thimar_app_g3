@@ -8,6 +8,7 @@ import 'package:thimar_app_g3/features/slider/cubit.dart';
 
 import 'firebase_options.dart';
 import 'views/home_nav/view.dart';
+import 'views/profile.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -68,7 +69,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xff4C8613)),
           useMaterial3: true,
         ),
-        home: HomeNavView(),
+        home: ProfileView(),
       ),
     );
   }
